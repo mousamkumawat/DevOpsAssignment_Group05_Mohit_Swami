@@ -1,0 +1,12 @@
+## Basic Commands
+
+List all available tasks: gradle tasks
+
+Build the project:  gradle build
+
+Clean the build directory:  gradle clean
+
+Run tests:  gradle test
+
+Assemble the outputs without running tests:  gradle assemble
+
